@@ -6,9 +6,10 @@ Monitoring: Prometheus, Grafana
 https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana
 
 ### Script / Export all Grafana dashboards
-https://gist.github.com/crisidev/bd52bdcc7f029be2f295#gistcomment-3593795
+https://gist.github.com/bocan/5b2bba9f245d33a9498e06dc05ef3f5d
 
 ```
-./export_grafana_dashboards.sh
+python3 ./export_grafana_dashboards.py
 ```
 
+### Import / Restore Dashboards
