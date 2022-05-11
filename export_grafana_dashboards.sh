@@ -1,4 +1,4 @@
-KEY=""
+KEY="eyJrIjoiOHMwRDRvQVBIRnZuVUpLbnppdWxrWWZDVGJHTDQ2ZDMiLCJuIjoidGVzdF9rZXkiLCJpZCI6MX0="
 HOST="http://localhost:3000"
 
 GRAFANA_DASHBOARDS_FOLDER=".grafana/dashboards"
